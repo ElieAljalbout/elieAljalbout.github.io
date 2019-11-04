@@ -1,13 +1,15 @@
-authors: "Philip Haeusser, Johannes Plapp, Vladimir Golkov, Elie Aljalbout, and Daniel Cremers"
-title: "Associative deep clustering: Training a classification network with no labels."
-venue: 'GCPR 2019'
+---
+authors: "Elie Aljalbout, Vladimir Golkov, Yawar Siddiqui, Maximilian Strobel, and Daniel Cremers"
+title: "Clustering with Deep Learning: Taxonomy and New Methods"
+venue: 'arXiv'
 
-pdf: 'https://vision.in.tum.de/_media/spezial/bib/haeusser18associative.pdf'
-
-date: 2018-10-12
+pdf: 'https://arxiv.org/pdf/1801.07648'
+http: 
+video: 
+date: 2018-01-11
 
 collection: publications
-permalink: /publication/2018_associative_clustering
+permalink: /publication/2019_test
 excerpt: 
 paperurl: 
 ---
