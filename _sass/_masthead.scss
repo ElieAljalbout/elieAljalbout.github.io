@@ -3,7 +3,7 @@
    ========================================================================== */
 
 .masthead {
-  background-color: #1261A0;
+  background-color: #000;
   position: relative;
   border-bottom: 1px solid $border-color;
   -webkit-animation: intro 0.3s both;
@@ -15,7 +15,7 @@
   &__inner-wrap {
     @include container;
     @include clearfix;
-    background-color: #1261A0;
+    background-color: #000;
     padding: 1em 1em 1em;
     font-family: $sans-serif-narrow;
 
