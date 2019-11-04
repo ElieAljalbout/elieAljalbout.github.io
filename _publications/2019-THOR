@@ -6,7 +6,8 @@ venue: 'BMVC (oral, acceptance rate: 4%)
 
 pdf: 'https://bmvc2019.org/wp-content/uploads/papers/1065-paper.pdf'
 http: https://sites.google.com/view/vision-thor/
-video: https://www.youtube.com/watch?v=EAv7SvI3EH0
+githuburl: https://github.com/xl-sr/THOR
+videourl: https://www.youtube.com/watch?v=EAv7SvI3EH0
 date: 2019-09-12
 
 collection: publications
