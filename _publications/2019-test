@@ -1,16 +1,16 @@
 ---
 authors: "Elie Aljalbout, Vladimir Golkov, Yawar Siddiqui, Maximilian Strobel, and Daniel Cremers"
-title: "Tracking Holistic Object Representations"
+title: "Clustering with Deep Learning: Taxonomy and New Methods"
 venue: 'BMVC 2019 (oral, acceptance rate: 4%)
 **Best Science Paper Award**'
 
 pdf: 'https://bmvc2019.org/wp-content/uploads/papers/1065-paper.pdf'
 http: https://sites.google.com/view/vision-thor/
 video: https://www.youtube.com/watch?v=EAv7SvI3EH0
-date: 2019-09-12
+date: 2018-01-11
 
 collection: publications
-permalink: /publication/2019_THOR
+permalink: /publication/2019_test
 excerpt: 
 paperurl: 
 ---
