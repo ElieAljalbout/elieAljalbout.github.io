@@ -9,6 +9,7 @@ Here's a collection of demos resulting from my research contributions:
 
 {% include base_path %}
 
-{% for post in site.demos reversed %}
+{% assign ordered_pages = site.demos | sort:"order_number" %}
+{% for post in ordered_pages %}
 {% include archive-single.html %}
 {% endfor %}
