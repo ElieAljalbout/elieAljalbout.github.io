@@ -8,14 +8,14 @@ redirect_from:
   - /about.html
 ---
 
-I am a Ph.D. student and research assistant at the [Munich School of Robotics and Machine Intelligence](https://www.msrm.tum.de/en/rsi/team/research-assistants/aljalbout-elie/) of the Technical University of Munich. My research focus is at the intersection of machine learning, robotics and computer vision. I am particularly interested in representation learning for robot reinforcement learning.
+I am a Ph.D. student at the [Technical University of Munich](https://www.tum.de/) and researcher at the [Volkswagen Group, ML Research Lab](https://argmax.ai/). My research focus is at the intersection of machine learning, robotics and computer vision. I am particularly interested in embodied AI, general agents, robotic manipulation and robot learning in general. 
 
 Research Interests
 --------
 
+- Robotics
 - Machine Learning
 - Reinforcement Learning
-- Interpretable Representation Learning
-- Robot Vision
-- Robotics
+- Foundation Models
+- Computer Vision
 
