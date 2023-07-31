@@ -82,7 +82,8 @@ analytics:
 author:
   name             : "Elie Aljalbout"
   avatar           : "eliealjalbout.jpg"
-  bio              : "Ph.D. student at <a style='color: black;' href='https://www.msrm.tum.de/en/rsi/chair-of-robotics-science-and-systems-intelligence/'>Technical University of Munich</a>"
+  bio              : "Ph.D. student at <a style='color: black;' href='https://www.tum.de'>Technical University of Munich</a>\n
+                      Researcher at <a style='color: black;' href='https://argmax.ai/'> Volkswagen Group, Machine Learning Research Lab</a>"
   location         : "Munich, Germany"
   employer         :
   googlescholar    : "https://scholar.google.com/citations?user=b8l7jMwAAAAJ&hl=en&oi=ao"
@@ -178,6 +179,8 @@ collections:
     permalink: /:collection/:path/
   publications:
     output: true
+    permalink: /:collection/:path/
+  demos:
     permalink: /:collection/:path/
   portfolio:
     output: true
