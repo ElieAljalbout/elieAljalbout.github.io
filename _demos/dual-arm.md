@@ -1,5 +1,5 @@
 ---
-title: "Multi-arm Manipulation"
+title: "Multi-Arm Manipulation"
 layout: single-portfolio
 excerpt: "<img src='/images/dual-arm.gif' alt=''>"
 collection: research

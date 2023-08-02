@@ -5,11 +5,11 @@ permalink: /demos/
 author_profile: true
 ---
 
-Here's a collection of demos resulting from my research contributions:
+Here's a collection of demos resulting from my research contributions (together with great colleagues!!):
 
 {% include base_path %}
 
 {% assign ordered_pages = site.demos | sort:"order_number" %}
 {% for post in ordered_pages %}
-{% include archive-single.html %}
+{% include archive-single.html type="grid"%}
 {% endfor %}
