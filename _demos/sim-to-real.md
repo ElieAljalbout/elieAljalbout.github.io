@@ -1,7 +1,7 @@
 ---
 title: "Sim-to-Real Transfer"
 layout: single-portfolio
-excerpt: "<img src='/images/real-push.gif' alt=''>"
+excerpt: "<img src='/images/sim-to-real.gif' alt=''>"
 collection: research
 order_number: 5
 header: 
