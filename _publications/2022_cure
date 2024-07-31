@@ -1,10 +1,11 @@
 ---
-authors:  "E Aljalbout, Maximilian Ulmer, R Triebel"
+authors:  "Elie Aljalbout, Maximilian Ulmer, Rudolph Triebel"
 title: "Seeking Visual Discomfort: Curiosity-driven Representations for Reinforcement Learning"
 venue: 'ICRA'
 
 
 pdf: 'https://arxiv.org/pdf/2110.00784.pdf'
+http: https://ieeexplore.ieee.org/abstract/document/9811663/
 date: 2022-10-28
 
 collection: publications
