@@ -8,14 +8,14 @@ redirect_from:
   - /about.html
 ---
 
-I am a Ph.D. student at the [Technical University of Munich](https://www.tum.de/) and researcher at the [Volkswagen Group, ML Research Lab](https://argmax.ai/). My research focus is at the intersection of machine learning, robotics and computer vision. I am particularly interested in embodied AI, general agents, robotic manipulation and robot learning in general. 
+I am a postdoctoral researcher at the [Robotics and Perception Group](https://rpg.ifi.uzh.ch/) in Zurich, Switzerland. Prior to this, I completed my PhD at the [Technical University of Munich](https://www.tum.de/) and spend a couple of years as a researcher at the [Volkswagen Group, ML Research Lab](https://argmax.ai/). My research focus is at the intersection of machine learning, robotics and computer vision. I am particularly interested in embodied AI, general agents, robotic manipulation and robot learning in general. 
 
 Research Interests
 --------
 
-- Robotics
-- Machine Learning
-- Reinforcement Learning
+- Reinforcement Learning & Optimal Control
+- Self-supervised Learning
+- World Models
 - Foundation Models
 - Computer Vision
 

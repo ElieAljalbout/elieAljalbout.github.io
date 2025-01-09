@@ -82,12 +82,11 @@ analytics:
 author:
   name             : "Elie Aljalbout"
   avatar           : "eliealjalbout.jpg"
-  bio              : "Ph.D. student at <a style='color: black;' href='https://www.tum.de'>Technical University of Munich</a>\n
-                      Researcher at <a style='color: black;' href='https://argmax.ai/'> Volkswagen Group, Machine Learning Research Lab</a>"
-  location         : "Munich, Germany"
+  bio              : "Postdoc at the <a style='color: black;' href='https://rpg.ifi.uzh.ch/'>Robotics and Perception Group</a>"
+  location         : "Zurich, Switzerland"
   employer         :
   googlescholar    : "https://scholar.google.com/citations?user=b8l7jMwAAAAJ&hl=en&oi=ao"
-  email            : "elie.aljalbout@tum.de"
+  email            : "elie dot aljalbout at tum dot de"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
