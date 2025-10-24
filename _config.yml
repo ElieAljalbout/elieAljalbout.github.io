@@ -82,8 +82,8 @@ analytics:
 author:
   name             : "Elie Aljalbout"
   avatar           : "eliealjalbout.jpg"
-  bio              : "Postdoc at the <a style='color: black;' href='https://rpg.ifi.uzh.ch/'>Robotics and Perception Group</a>"
-  location         : "Zurich, Switzerland"
+  bio              : "Robotics at <a style='color: black;' href='https://ai.meta.com/research/'>Meta FAIR</a>"
+  location         : "San Francisco, USA"
   employer         :
   googlescholar    : "https://scholar.google.com/citations?user=b8l7jMwAAAAJ&hl=en&oi=ao"
   email            : "elie dot aljalbout at tum dot de"
@@ -95,7 +95,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "ElieALjalbout"
+  github           : "ElieAljalbout"
   google_plus      :
   keybase          :
   instagram        :
