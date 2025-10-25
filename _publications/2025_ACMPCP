@@ -1,0 +1,13 @@
+---
+authors:  "Angel Romero, Elie Aljalbout, Yunlong Song, Davide Scaramuzza"
+title: "Actor-Critic Model Predictive Control: Differentiable Optimization meets Reinforcement Learning"
+venue: 'IEEE Transactions on Robotics'
+
+
+pdf: 'https://arxiv.org/pdf/2306.09852v6'
+date: 2025-05-23
+
+collection: publications
+permalink: /publication/2025_ACMPCP
+paperurl: 
+---
