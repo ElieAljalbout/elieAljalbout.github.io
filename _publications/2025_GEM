@@ -5,9 +5,10 @@ venue: 'CVPR'
 
 
 pdf: 'https://openaccess.thecvf.com/content/CVPR2025/papers/Hassan_GEM_A_Generalizable_Ego-Vision_Multimodal_World_Model_for_Fine-Grained_Ego-Motion_CVPR_2025_paper.pdf'
+http: https://vita-epfl.github.io/GEM.github.io/
 date: 2025-05-25
 
 collection: publications
 permalink: /publication/2025_gem
-paperurl: https://vita-epfl.github.io/GEM.github.io/
+paperurl: 
 ---
