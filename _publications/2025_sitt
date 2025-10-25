@@ -5,9 +5,10 @@ venue: 'ICLR'
 
 
 pdf: 'https://arxiv.org/pdf/2412.09149'
+http: https://rpg.ifi.uzh.ch/sitt/
 date: 2025-05-28
 
 collection: publications
 permalink: /publication/2025_sitt
-paperurl: https://rpg.ifi.uzh.ch/sitt/
+paperurl: 
 ---
